@@ -1,0 +1,2 @@
+rootProject.name = "GlobalScope_runBloking_KotlinCoroutines"
+include ':app'
